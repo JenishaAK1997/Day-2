@@ -11,12 +11,12 @@ var  //redeclare and reassign
 let  // cannot redeclare but can reassign
 Const // cannot redeclare and reassign
 
-Datatypes
-number,string,boolean,array,object
+Datatypes: 
+number, string, boolean, array, object
 number = 1,2,3.5
 string = "" / ''
 boolean = true/false 
-array = [1,"abc",true,{}]
+array = [1,2,3,"abc",true,{}]
 object =represented in key value pairs
 {
     key: value
